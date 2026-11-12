@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "H&M",
+    "Id": "52ba7d9d-c1fb-4278-8f21-332b21c7d0bd"
+  },
+  {
+    "Name": "ZARA",
+    "Id": "f69af50b-7565-4ed3-b1da-85b2111099d6"
+  },
+  {
+    "Name": "Nike",
+    "Id": "f62d8b59-f7de-4aae-bf0d-7853a83e65a5"
+  },
+  {
+    "Name": "Activ",
+    "Id": "5d59ea40-8a6d-4d0d-a6a8-4ce0a54ce17c"
+  },
+  {
+    "Name": "Mango",
+    "Id": "4b684c16-dcbd-4541-b824-6856ef2d0bc8"
+  },
+  {
+    "Name": "Levi's",
+    "Id": "98ce0339-e50c-4cec-89cf-4c81b5d15a79"
+  }
+]
